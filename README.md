@@ -2,4 +2,4 @@
 It is a repository
 Hi
 This is Deepika
-I am from Lowblaw project
+I am from Loblaw project
